@@ -1,11 +1,11 @@
 exports.menu = (pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita) => {
 return`*╭─❒ 「 INFORMATION 」 ──────*
-*│*➪ *NAMA : OI ${pushname} LU GAY YA?*
+*│*➪ *NAMA : OI ${FERIBOTZ} LU GAY YA?*
 *│*➪ *WIB    : ${timeWib}*
 *│*➪ *WIT    : ${timeWit}*
 *│*➪ *WITA  : ${timeWita}*
 *│*➪ *CREATOR : 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*
-*│*➪ *BOT NAME : ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ*
+*│*➪ *BOT NAME : ɪ ᴀᴍ FERIʙᴏᴛᴢ*
 *│*➪ *PREFIX : 「 MULTI PREFIX 」*
 *│*➪ *BOT MODE : ${banChats ? "SELF-MODE" : "PUBLIC-MODE"}*
 *└──────────────────❒*
